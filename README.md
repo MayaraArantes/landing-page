@@ -8,7 +8,7 @@
 ## 💻 Deploy:
 <p>Utilizei o Vercel para hospedagem do código.</p>
 <p>Link: 
-  <a href="landing-page-henna-alpha.vercel.app">Landing Page</a>
+  <a href="https://landing-page-henna-alpha.vercel.app" target="_blank">Landing Page</a>
 </p><br>
 
 ![img page](https://github.com/user-attachments/assets/a7429d95-5d8d-43ff-949f-4b898f10f14a)
